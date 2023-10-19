@@ -1,1 +1,1 @@
-# This applicatioj is about Weather forecast
+# This application is about Weather forecast

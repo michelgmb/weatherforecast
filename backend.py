@@ -6,7 +6,7 @@ df = pd.read_json('city.list.json')
 # print(df.head())
 # print(df.columns)
 
-api_key = "4dbb51ed104ec589614d61d8fcdcd301"
+api_key = api_key
 #city = "Toronto"
 #days = 5
 
